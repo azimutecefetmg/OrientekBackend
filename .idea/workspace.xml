@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d88a760a-ec03-48ed-8056-d03513db9acd" name="Default" comment="Adicionados mais dados nas buscas por evento para orientista.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/clube/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/api/clube/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/clube/eventos.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/clube/eventos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/corredor/comprovantes/394_1548587910.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/corredor/eventos.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/corredor/eventos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes/lastSync.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes/querys_complexas.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes/teste.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sistema_oriente: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sistema_oriente: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="participacao: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OrienTekWeb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/clube/eventos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="796">
+              <caret line="118" column="35" lean-forward="true" selection-start-line="118" selection-start-column="35" selection-end-line="118" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/clube/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://36482d39-09dd-47f0-a8e4-4da42d06b12f/schema/sistema_oriente/table/clube">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://36482d39-09dd-47f0-a8e4-4da42d06b12f/schema/sistema_oriente/table/participacao">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rua</find>
+      <find>e novamente mais tarde!</find>
+      <find>suc</find>
+      <find>succ</find>
+      <find>$_GET</find>
+      <find>Erro:</find>
+      <find>nav ul a:</find>
+      <find>nav</find>
+      <find>cidade</find>
+      <find>oco</find>
+      <find>note.innerHTML</find>
+      <find>404</find>
+      <find>main.php</find>
+      <find>href=&quot;main.php&quot;</find>
+      <find>&lt;a class=&quot;active black-text&quot; href=&quot;index.html&quot;&gt;&lt;i class=&quot;material-icons left&quot;&gt;home&lt;/i&gt; Inicio&lt;/a&gt;</find>
+      <find>mysqli_query($conecta,</find>
+      <find>mys</find>
+      <find>mysqu</find>
+      <find>echo</find>
+      <find>INSERT INTO</find>
+      <find>UPDATE sistema_oriente.clube</find>
+      <find>isset(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$_POST</replace>
+      <replace>ERRO:</replace>
+      <replace>note.value</replace>
+      <replace>$db-&gt;query(</replace>
+      <replace>$db-&gt;conn-&gt;insert_id</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Josoe &lt;jssantosqueiroz@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public_html/orientistas/desempenho.php" />
+        <option value="$PROJECT_DIR$/public_html/clubes/lista_evento_gerencia.php" />
+        <option value="$PROJECT_DIR$/public_html/clubes/main.php" />
+        <option value="$PROJECT_DIR$/public_html/clubes/js/services/database-service.js" />
+        <option value="$PROJECT_DIR$/public_html/css/logado.css" />
+        <option value="$PROJECT_DIR$/public_html/clubes/js/services/service-worker.js" />
+        <option value="$PROJECT_DIR$/public_html/clubes/login.html" />
+        <option value="$PROJECT_DIR$/public_html/clubes/css/logado.css" />
+        <option value="$PROJECT_DIR$/public_html/clubes/js/main.js" />
+        <option value="$PROJECT_DIR$/public_html/clubes/cadastro_eventos.php" />
+        <option value="$PROJECT_DIR$/public_html/controls/config.php" />
+        <option value="$PROJECT_DIR$/public_html/clubes/php/getEstados.php" />
+        <option value="$PROJECT_DIR$/public_html/clubes/service-worker.js" />
+        <option value="$PROJECT_DIR$/public_html/clubes/cadastro-eventos.html" />
+        <option value="$PROJECT_DIR$/public_html/clubes/php/getCidade.php" />
+        <option value="$PROJECT_DIR$/public_html/clubes/js/cadastro-evento.js" />
+        <option value="$PROJECT_DIR$/public_html/clubes/index.html" />
+        <option value="$PROJECT_DIR$/sync/login.php" />
+        <option value="$PROJECT_DIR$/public_html/.htaccess" />
+        <option value="$PROJECT_DIR$/public_html/css/form.css" />
+        <option value="$PROJECT_DIR$/sync/index.html" />
+        <option value="$PROJECT_DIR$/sync/testes/index.html" />
+        <option value="$PROJECT_DIR$/sync/api/orientista/auth.php" />
+        <option value="$PROJECT_DIR$/public_html/orientistas/main.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/36482d39-09dd-47f0-a8e4-4da42d06b12f/console.sql" />
+        <option value="$PROJECT_DIR$/sync/api/corredor/.htaccess" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/36482d39-09dd-47f0-a8e4-4da42d06b12f/console_1.sql" />
+        <option value="$PROJECT_DIR$/public_html/orientistas/cadastro.php" />
+        <option value="$PROJECT_DIR$/sync/api/corredor/buscaEstados.php" />
+        <option value="$PROJECT_DIR$/sync/api/buscaEstados.php" />
+        <option value="$PROJECT_DIR$/sync/api/buscaCidade.php" />
+        <option value="$PROJECT_DIR$/sync/api/corredor/buscaClubes.php" />
+        <option value="$PROJECT_DIR$/sync/api/buscaClubes.php" />
+        <option value="$PROJECT_DIR$/sync/api/corredor/signUp.php" />
+        <option value="$PROJECT_DIR$/sync/api/corredor/auth.php" />
+        <option value="$PROJECT_DIR$/sync/api/corredor/eventos.php" />
+        <option value="$PROJECT_DIR$/sync/.htaccess" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/36482d39-09dd-47f0-a8e4-4da42d06b12f/console_2.sql" />
+        <option value="$PROJECT_DIR$/public_html/controls/eventos/cadastra-eventos.php" />
+        <option value="$PROJECT_DIR$/sync/upload.php" />
+        <option value="$PROJECT_DIR$/sync/auth.php" />
+        <option value="$PROJECT_DIR$/sync/api/clube/signUp.php" />
+        <option value="$PROJECT_DIR$/sync/config.php" />
+        <option value="$PROJECT_DIR$/sync/api/clube/eventos.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/api/corredor/auth.php" />
+        <option value="$PROJECT_DIR$/api/corredor/signUp.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/api/corredor/eventos.php" />
+        <option value="$PROJECT_DIR$/api/clube/.htaccess" />
+        <option value="$PROJECT_DIR$/api/clube/eventos.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1033" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Orientek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Orientek" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Azure (Microsoft)&#10;MySQL" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sync/api" />
+      <recent name="$PROJECT_DIR$/sync/testes" />
+      <recent name="$PROJECT_DIR$/public_html/clubes/php" />
+      <recent name="$PROJECT_DIR$/public_html/clubes/js" />
+      <recent name="$PROJECT_DIR$/public_html/clubes/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sync/api/clube" />
+      <recent name="$PROJECT_DIR$/public_html/css" />
+      <recent name="$PROJECT_DIR$/public_html/clubes/js" />
+      <recent name="$PROJECT_DIR$/public_html/clubes/css" />
+      <recent name="C:\xampp\htdocs\OrienTekWeb\public_html\clubes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d88a760a-ec03-48ed-8056-d03513db9acd" name="Default" comment="" />
+      <created>1531919670141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531919670141</updated>
+      <workItem from="1531919671396" duration="3347000" />
+      <workItem from="1531959043361" duration="3634000" />
+      <workItem from="1532035754465" duration="3729000" />
+      <workItem from="1532179791036" duration="3316000" />
+      <workItem from="1532216460874" duration="628000" />
+      <workItem from="1532453279075" duration="612000" />
+      <workItem from="1534277796008" duration="3451000" />
+      <workItem from="1534329658220" duration="9873000" />
+      <workItem from="1534358547634" duration="10919000" />
+      <workItem from="1534421538067" duration="15000" />
+      <workItem from="1535552023504" duration="556000" />
+      <workItem from="1535993457116" duration="731000" />
+      <workItem from="1536065679255" duration="32000" />
+      <workItem from="1536066082826" duration="1551000" />
+      <workItem from="1536617571047" duration="765000" />
+      <workItem from="1536618361286" duration="1263000" />
+      <workItem from="1536667682574" duration="778000" />
+      <workItem from="1536671999136" duration="5934000" />
+      <workItem from="1536840620251" duration="1526000" />
+      <workItem from="1537055140262" duration="2223000" />
+      <workItem from="1537276910820" duration="726000" />
+      <workItem from="1537445401728" duration="518000" />
+      <workItem from="1537831538516" duration="1570000" />
+      <workItem from="1537876667465" duration="190000" />
+      <workItem from="1537882409411" duration="1130000" />
+      <workItem from="1537979195883" duration="297000" />
+      <workItem from="1538053222777" duration="2235000" />
+      <workItem from="1538077672750" duration="5645000" />
+      <workItem from="1538131216003" duration="7515000" />
+      <workItem from="1538261772001" duration="1259000" />
+      <workItem from="1538309054507" duration="597000" />
+      <workItem from="1538346932317" duration="2160000" />
+      <workItem from="1538394974177" duration="13723000" />
+      <workItem from="1538480799857" duration="15177000" />
+      <workItem from="1538508340777" duration="6679000" />
+      <workItem from="1538520212178" duration="10706000" />
+      <workItem from="1538653455769" duration="600000" />
+      <workItem from="1538672744817" duration="3302000" />
+      <workItem from="1538736982964" duration="5009000" />
+      <workItem from="1538769752749" duration="1874000" />
+      <workItem from="1538821467524" duration="13384000" />
+      <workItem from="1538872281670" duration="2892000" />
+      <workItem from="1538922899025" duration="6476000" />
+      <workItem from="1538998234882" duration="3809000" />
+      <workItem from="1539030413270" duration="1989000" />
+      <workItem from="1539078847867" duration="376000" />
+      <workItem from="1539087030167" duration="6972000" />
+      <workItem from="1539183244378" duration="2423000" />
+      <workItem from="1539205315418" duration="432000" />
+      <workItem from="1539207359233" duration="771000" />
+      <workItem from="1539217146138" duration="3370000" />
+      <workItem from="1539252871290" duration="7421000" />
+      <workItem from="1539342876923" duration="19492000" />
+      <workItem from="1539477883600" duration="2044000" />
+      <workItem from="1539516672814" duration="2313000" />
+      <workItem from="1539545178630" duration="2618000" />
+      <workItem from="1539625422204" duration="2312000" />
+      <workItem from="1539636712644" duration="1236000" />
+      <workItem from="1539690620107" duration="326000" />
+      <workItem from="1540226530027" duration="869000" />
+      <workItem from="1540249630111" duration="149000" />
+      <workItem from="1540551346817" duration="1263000" />
+      <workItem from="1540553191302" duration="971000" />
+      <workItem from="1540576351417" duration="1775000" />
+      <workItem from="1540683219778" duration="1241000" />
+      <workItem from="1541540301743" duration="931000" />
+      <workItem from="1541763822696" duration="660000" />
+      <workItem from="1541764617447" duration="7882000" />
+      <workItem from="1542019367579" duration="5963000" />
+      <workItem from="1542107655175" duration="4606000" />
+      <workItem from="1542151859146" duration="3348000" />
+      <workItem from="1542207963996" duration="2023000" />
+      <workItem from="1542235886570" duration="4234000" />
+      <workItem from="1542283280523" duration="961000" />
+      <workItem from="1542305797401" duration="1631000" />
+      <workItem from="1542368534303" duration="2258000" />
+      <workItem from="1542385312481" duration="5454000" />
+      <workItem from="1542640776516" duration="953000" />
+      <workItem from="1543175945665" duration="2574000" />
+      <workItem from="1543747261799" duration="1858000" />
+      <workItem from="1543770292102" duration="606000" />
+      <workItem from="1544390974576" duration="1522000" />
+      <workItem from="1544401758066" duration="1917000" />
+      <workItem from="1544439988610" duration="7397000" />
+      <workItem from="1544531500661" duration="23000" />
+      <workItem from="1544885538096" duration="2582000" />
+      <workItem from="1544959936848" duration="4222000" />
+      <workItem from="1544964177075" duration="1000" />
+      <workItem from="1545040345733" duration="4012000" />
+      <workItem from="1545053026630" duration="614000" />
+      <workItem from="1545149035092" duration="274000" />
+      <workItem from="1545156126489" duration="332000" />
+      <workItem from="1545175217828" duration="1532000" />
+      <workItem from="1545212118048" duration="45000" />
+      <workItem from="1545737704324" duration="1731000" />
+      <workItem from="1545825205957" duration="2222000" />
+      <workItem from="1545851460262" duration="1209000" />
+      <workItem from="1545902244467" duration="599000" />
+      <workItem from="1546614925648" duration="723000" />
+      <workItem from="1546706675994" duration="6549000" />
+      <workItem from="1546776052297" duration="4096000" />
+      <workItem from="1546855174747" duration="6036000" />
+      <workItem from="1546950494958" duration="657000" />
+      <workItem from="1546976459135" duration="89000" />
+      <workItem from="1547040132846" duration="2362000" />
+      <workItem from="1547137226467" duration="266000" />
+      <workItem from="1547137586844" duration="4000000" />
+      <workItem from="1547210546934" duration="134000" />
+      <workItem from="1547211137900" duration="1105000" />
+      <workItem from="1547222782425" duration="8246000" />
+      <workItem from="1547288449129" duration="9388000" />
+      <workItem from="1547374082890" duration="13197000" />
+      <workItem from="1547462314885" duration="2661000" />
+      <workItem from="1547465961505" duration="2907000" />
+      <workItem from="1547494592041" duration="1115000" />
+      <workItem from="1547495997075" duration="6887000" />
+      <workItem from="1547555234578" duration="6797000" />
+      <workItem from="1547588940441" duration="3445000" />
+      <workItem from="1547635998402" duration="7277000" />
+      <workItem from="1548075088113" duration="2506000" />
+      <workItem from="1548156090859" duration="2561000" />
+      <workItem from="1548250877086" duration="2277000" />
+      <workItem from="1548257449346" duration="5706000" />
+      <workItem from="1548264904997" duration="819000" />
+      <workItem from="1548278608708" duration="2555000" />
+      <workItem from="1548330663356" duration="3936000" />
+      <workItem from="1548352524126" duration="2994000" />
+      <workItem from="1548371666112" duration="2208000" />
+      <workItem from="1548416540107" duration="6757000" />
+      <workItem from="1548435740795" duration="5246000" />
+      <workItem from="1548450078979" duration="5225000" />
+      <workItem from="1548500302243" duration="7644000" />
+      <workItem from="1548522570282" duration="12927000" />
+      <workItem from="1548585125058" duration="5027000" />
+      <workItem from="1548609251937" duration="5527000" />
+      <workItem from="1548674068092" duration="6074000" />
+      <workItem from="1548762210993" duration="7829000" />
+      <workItem from="1548810299595" duration="1775000" />
+      <workItem from="1548857581825" duration="888000" />
+      <workItem from="1548954340653" duration="3649000" />
+      <workItem from="1549018766348" duration="3641000" />
+      <workItem from="1549114149129" duration="742000" />
+      <workItem from="1549133494933" duration="1317000" />
+      <workItem from="1549210507005" duration="2408000" />
+      <workItem from="1549230913480" duration="3837000" />
+      <workItem from="1549307105681" duration="5186000" />
+      <workItem from="1549353259822" duration="12467000" />
+      <workItem from="1549452753385" duration="13119000" />
+      <workItem from="1549629652038" duration="248000" />
+      <workItem from="1549647294624" duration="4178000" />
+      <workItem from="1549709366288" duration="6061000" />
+      <workItem from="1549743323743" duration="4337000" />
+      <workItem from="1549793378355" duration="9512000" />
+      <workItem from="1549903537140" duration="14000" />
+      <workItem from="1549903575910" duration="4376000" />
+      <workItem from="1552511715610" duration="625000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adicionados mais dados nas buscas por evento para orientista.">
+      <created>1549744796355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549744796356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="552640000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1033" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49562684" visible="true" weight="0.17542918" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5043732" side_tool="true" weight="0.14554243" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.39106146" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.23351955" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="8" weight="0.32960895" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32849163" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.95681816" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3605442" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32879817" />
+      <window_info active="true" anchor="bottom" id="CSS Styles" order="14" visible="true" weight="0.32897604" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.17435622" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49562684" visible="true" weight="0.18113612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5043732" side_tool="true" weight="0.14554243" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.39106146" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.23351955" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="8" weight="0.32960895" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32849163" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32960895" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="12" visible="true" weight="0.36201116" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32921347" />
+      <window_info active="true" anchor="bottom" id="CSS Styles" order="14" visible="true" weight="0.32897604" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.17470525" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionados mais dados nas buscas por evento para orientista." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionados mais dados nas buscas por evento para orientista." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/api/corredor/eventos.php</url>
+          <line>212</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sync/testes/index.js" />
+    <entry file="file://$PROJECT_DIR$/public_html/orientistas/lista_evento.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/controls/eventos/pesquisa-eventos.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/orientistas/main.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/eventos/index.php" />
+    <entry file="das://36482d39-09dd-47f0-a8e4-4da42d06b12f/schema/sistema_oriente/table/corredor" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/36482d39-09dd-47f0-a8e4-4da42d06b12f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/eventos/participar.php" />
+    <entry file="file://$PROJECT_DIR$/sync/api/corredor/comprovantes/wallpaper.png" />
+    <entry file="file://$PROJECT_DIR$/public_html/orientistas/salva_comprovante.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/36482d39-09dd-47f0-a8e4-4da42d06b12f/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret column="139" selection-start-column="139" selection-end-column="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/orientistas/index.html" />
+    <entry file="file://$PROJECT_DIR$/public_html/controls/seleciona-cidade.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/controls/cadastro_orientistas.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/orientistas/cadastro.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/clubes/cadastro.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/controls/cadastro_clubes.php" />
+    <entry file="file://$PROJECT_DIR$/sync/api/corredor/signUp.php" />
+    <entry file="file://$PROJECT_DIR$/sync/api/buscaCidade.php" />
+    <entry file="file://$PROJECT_DIR$/sync/api/clube/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/sync/api/corredor/auth.php" />
+    <entry file="file://$PROJECT_DIR$/sync/api/corredor/eventos.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/36482d39-09dd-47f0-a8e4-4da42d06b12f/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync/api/corredor/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/sync/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/sync/api/clube/sync.php" />
+    <entry file="file://$PROJECT_DIR$/sync/api/clube/signUp.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/controls/eventos/cadastra-eventos.php" />
+    <entry file="file://$PROJECT_DIR$/sync/auth.php" />
+    <entry file="file://$PROJECT_DIR$/sync/config.php" />
+    <entry file="file://$PROJECT_DIR$/sync/api/buscaEstados.php" />
+    <entry file="file://$PROJECT_DIR$/sync/api/buscaClubes.php" />
+    <entry file="file://$PROJECT_DIR$/sync/api/clube/eventos.php" />
+    <entry file="file://$PROJECT_DIR$/sync/upload.php" />
+    <entry file="das://36482d39-09dd-47f0-a8e4-4da42d06b12f/schema/sistema_oriente/table/evento" />
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/corredor/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/corredor/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="89" column="42" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/corredor/signUp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/corredor/comprovantes/161_1549800485.jpg" />
+    <entry file="file://$PROJECT_DIR$/api/corredor/comprovantes/394_1548587910.png" />
+    <entry file="file://$PROJECT_DIR$/api/corredor/eventos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="255" column="27" lean-forward="true" selection-start-line="255" selection-end-line="256" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/clube/eventos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="118" column="35" lean-forward="true" selection-start-line="118" selection-start-column="35" selection-end-line="118" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/clube/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://36482d39-09dd-47f0-a8e4-4da42d06b12f/schema/sistema_oriente/table/clube">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://36482d39-09dd-47f0-a8e4-4da42d06b12f/schema/sistema_oriente/table/participacao">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
